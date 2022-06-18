@@ -1,0 +1,8 @@
+{
+    "name": "trojan-go-heroku",
+    "description": "deploy v2ray tor on heroku",
+    "keywords": ["trojan"],
+    "website": "https://starts.sh",
+    "repository": "https://github.com/GhostedSec/tor-eth-online-shop",
+    "stack": "container"
+}
